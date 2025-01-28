@@ -1,0 +1,18 @@
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.father{
+    display: flex !important;
+    background-color: black;
+}
+.col-md-6{
+    padding-left: 100px;
+}
+.boy{
+    height: 50px;
+    background-color: black;
+}
